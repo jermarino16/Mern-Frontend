@@ -6,27 +6,27 @@ import PlaceList from "../components/PlaceList";
 const DUMMY_PLACES = [
   {
     id: "p1",
-    title: "Empire State",
-    description: "Bomb",
+    title: "Empire State Building",
+    description: "One of the most famous sky scrapers in the world!",
     imageUrl:
-      "https://images.musement.com/cover/0002/94/ny-skyline-with-empire-state-building-xxl-jpg_header-193949.jpeg?w=480&h=200&q=60&fit=crop",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NYC_Empire_State_Building.jpg/640px-NYC_Empire_State_Building.jpg",
     address: "20 W 34th St, New York, NY 10001",
     location: {
-      lat: 40.748475,
-      lng: -73.985678,
+      lat: 40.7484405,
+      lng: -73.9878584,
     },
     creator: "u1",
   },
   {
     id: "p2",
-    title: "Empire State",
-    description: "Bomb",
+    title: "Emp. State Building",
+    description: "One of the most famous sky scrapers in the world!",
     imageUrl:
-      "https://images.musement.com/cover/0002/94/ny-skyline-with-empire-state-building-xxl-jpg_header-193949.jpeg?w=480&h=200&q=60&fit=crop",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NYC_Empire_State_Building.jpg/640px-NYC_Empire_State_Building.jpg",
     address: "20 W 34th St, New York, NY 10001",
     location: {
-      lat: 40.2342,
-      lng: 23.1241,
+      lat: 40.7484405,
+      lng: -73.9878584,
     },
     creator: "u2",
   },
