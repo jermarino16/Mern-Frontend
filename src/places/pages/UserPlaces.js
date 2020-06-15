@@ -10,10 +10,10 @@ const DUMMY_PLACES = [
     description: "Bomb",
     imageUrl:
       "https://images.musement.com/cover/0002/94/ny-skyline-with-empire-state-building-xxl-jpg_header-193949.jpeg?w=480&h=200&q=60&fit=crop",
-    address: "32141 Highway ave",
+    address: "20 W 34th St, New York, NY 10001",
     location: {
-      lat: 40.2342,
-      lng: 23.1241,
+      lat: 40.748475,
+      lng: -73.985678,
     },
     creator: "u1",
   },
@@ -23,7 +23,7 @@ const DUMMY_PLACES = [
     description: "Bomb",
     imageUrl:
       "https://images.musement.com/cover/0002/94/ny-skyline-with-empire-state-building-xxl-jpg_header-193949.jpeg?w=480&h=200&q=60&fit=crop",
-    address: "32141 Highway ave",
+    address: "20 W 34th St, New York, NY 10001",
     location: {
       lat: 40.2342,
       lng: 23.1241,
